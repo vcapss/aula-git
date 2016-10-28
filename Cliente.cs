@@ -9,6 +9,11 @@ namespace Fiap.Exemplo
     class Cliente
     {
         public int qt { get; set; }
+
         public String Nome { get; set; }
+
+
+        public String Name { get; set; }
+
     }
 }
