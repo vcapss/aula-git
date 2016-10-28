@@ -15,5 +15,7 @@ namespace Fiap.Exemplo
 
         public String Name { get; set; }
 
+        public int daa { get; set; }
+
     }
 }
